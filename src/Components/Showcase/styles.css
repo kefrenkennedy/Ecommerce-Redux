@@ -1,0 +1,52 @@
+#card{
+height: 350px;
+margin-bottom: 20px;
+width: 250px;
+border: none;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(82, 82, 82);
+background-color: white;
+
+}
+#prodButton{
+    border-radius: 5px;
+    border:none;
+    background-color: rgb(177, 109, 240);
+    color: white;
+    width: 220px;
+    height: 35px;
+}
+#prodButton:hover{
+    background-color: rgb(108, 56, 156);
+}
+#cardImg{
+    height: 60%;
+    width: 50%;
+}
+#prodName{
+    margin-top: 10px;
+    width: 220px;
+    text-align: left;
+    border-top: 2px solid rgb(216, 216, 216);
+    height: 30px;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+#prodPrice{
+    width: 220px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+#prodList{
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width:60vw;
+    /* margin-right: 200px; */
+    /* background-color: blue; */
+}

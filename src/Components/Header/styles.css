@@ -1,0 +1,41 @@
+#headerContainer {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 238, 241);
+  height: 50px;
+  border-bottom: 2px solid rgb(230, 229, 229);
+}
+#header {
+  width: 95vw;
+  background-color: rgb(234, 238, 241);
+  display: flex;
+  justify-content: space-between;
+}
+
+#kenzieShop {
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+#cartButton,
+#containerCartButton {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  background-color: rgb(234, 238, 241);
+}
+#containerCartButton {
+  cursor: pointer;
+  border: none;
+}
+
+#blueBall {
+  width: 3px;
+  height: 3px;
+  border-radius: 100%;
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,13 @@
+#containerCartPage {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 25px;
+  width: 100vw;
+}
+
+@media screen and (max-width: 1000px) {
+  #containerCartPage {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+}
