@@ -7,3 +7,14 @@ PADRÃO --> CLEAN-CODE
 BIBLIOTECAS --> REACT-ICONS | REACT-ROUTER-DOM | REDUX | REDUX-THUNK  
 ----------------------------------------------------------------------------
 visite o projeto: https://kenzie-shop-redux-tau.vercel.app/
+----------------------------------------------------------------------------
+ENGLISH:
+The user can add and remove products from the cart, everything was done through Redux, and even if the user refreshes the page, it will not reset the cart as the information is stored in the browser's LocalStorage. I used react-router-dom to make the site as light as possible when moving between pages using the tools provided by the library. I used react-icons to make the site more stylized, with icons. I installed these libraries through their documentation manual.
+-------------------------------------------------- --------------------------
+TECHNOLOGIES --> JAVASCRIPT | REACT | CSS | VSCODE
+-------------------------------------------------- --------------------------
+CLEAN-CODE
+-------------------------------------------------- --------------------------
+LIBRARIES --> REACT-ICONS | REACT-ROUTER-DOM | REDUX | REDUX-THUNK
+-------------------------------------------------- --------------------------
+visit the project: https://kenzie-shop-redux-tau.vercel.app/
